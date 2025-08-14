@@ -31,6 +31,7 @@ This week, I designed what I want my homepage to look like. I experimented with 
 ## Week 4
 This week, I worked on creating algorithms and test cases for the login page.
 <img width="740" height="1049" alt="Image" src="https://github.com/user-attachments/assets/5fade608-468f-4532-b447-6d296a1800a1" />
+
 Steps of the algorithm:
 1. User will start at the login page
 2. If user already had an existing account, user will start typing in username and password.
@@ -38,3 +39,13 @@ Steps of the algorithm:
 4. If user chose to create a new account, user will input their desired username and password then confirm and will be redirected to login page
 5. If user already has an exisitng accound and details are wrong, user will be required to retype details
 6. If user already has an exisitng accound and details are right, user will proceed onto website.
+
+*Test cases*
+| Test Case ID | Input Username | Input Password | Expected Output                                 | Notes                  |
+| ------------ | -------------- | -------------- | ----------------------------------------------- | ---------------------- |
+| **TC01**     | admin          | pass123        | **Login successful** → Redirect to dashboard    | Valid credentials      |
+| **TC02**     | admin          | wrongpass      | **Invalid username or password** → Prompt retry | Wrong password entered |
+
+*Code will be as follows*
+<img width="863" height="543" alt="Image" src="https://github.com/user-attachments/assets/141f1aa9-4531-4734-8b30-43bf99b580d0" />
+
