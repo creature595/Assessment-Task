@@ -57,3 +57,9 @@ Instructions
 2. Run python .\main.py into Powershell terminal and click on link shown.
 3. For login, **username : admin, Password : password**. You must click 'Agree to Terms and Conditions' to access website
 
+My Google Lighthouse Scores
+*Home Page*
+<img width="327" height="101" alt="homepage" src="https://github.com/user-attachments/assets/1ae91310-e0f0-47dd-b367-06ef82e6ce14" />
+*Login Page*
+<img width="385" height="110" alt="Login page lighthouse" src="https://github.com/user-attachments/assets/8df8480c-4657-428a-bdeb-6fd550e7b336" />
+
