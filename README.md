@@ -49,3 +49,11 @@ Steps of the algorithm:
 *Code will be as follows*
 <img width="863" height="543" alt="Image" src="https://github.com/user-attachments/assets/141f1aa9-4531-4734-8b30-43bf99b580d0" />
 
+Over the holidays, I worked on the code a lot. My VSCode decided to give up on me twice and I had to recode everything. Other then that, there weren't any other problems.
+The like feature however still isn't working as I hoped it would as you can like the other moodboards as many times as you want and the like count will increase.
+
+Instructions
+1. Load into VSCode
+2. Run python .\main.py into Powershell terminal and click on link shown.
+3. For login, **username : admin, Password : password**. You must click 'Agree to Terms and Conditions' to access website
+
